@@ -1,6 +1,14 @@
 
-### Olá, sou Marcos Henrique 👋
-Sou estudante de desenvolvimento de Software Back-End, me reconheço como entusiasta no aprendizado adquirido dia a dia. Meu objetivo e atuar na área da tecnologia da informação, com análise e/ou desenvolvimento de sistema e trabalho em equipe. Linguagem de programação Python, SQL, Django, REST APIs, Flask e Machine Learning.
+### Hi, I'm Marcos Henrique👋
+Back-End Software Development, I've taken several courses in programming and agile development. My goal is to work in the information technology area, with analysis and/or system development and teamwork.
+
+Soft Skill: Python, MySQL, Django, REST APIs, Flask and Machine Learning.
+
+GitHub: https://github.com/MarcosHBarreto
+
+Email: marcos185henrique@gmail.com
+
+Phone / WhatsApp: (81) 99890-8555
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MarcosHBarreto)
